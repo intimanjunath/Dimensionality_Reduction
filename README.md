@@ -1,21 +1,5 @@
 # Dimensionality Reduction Techniques
 
-This repository demonstrates various **dimensionality reduction** techniques applied to both **image datasets** and **tabular datasets**, using both Google Colab and Databricks.
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Part 1: Dimensionality Reduction in Colab](#part-1-dimensionality-reduction-in-colab)
-   - [Image Dataset](#image-dataset)
-   - [Tabular Dataset](#tabular-dataset)
-3. [Part 2: Dimensionality Reduction in Databricks](#part-2-dimensionality-reduction-in-databricks)
-4. [Results and Comparison](#results-and-comparison)
-5. [How to Use](#how-to-use)
-6. [License](#license)
-
----
-
-## Overview
-
 Dimensionality reduction techniques are essential in data science for visualizing and analyzing high-dimensional datasets. This project demonstrates the following techniques:
 
 1. Locally Linear Embedding (LLE)
@@ -29,6 +13,8 @@ Dimensionality reduction techniques are essential in data science for visualizin
 9. Factor Analysis
 10. Autoencoders
 
+---
+Youtube : https://www.youtube.com/watch?v=-Kw4UaQJphE 
 ---
 
 ## Part 1: Dimensionality Reduction in Colab
@@ -48,7 +34,7 @@ Dimensionality reduction techniques are essential in data science for visualizin
   - Factor Analysis
   - Autoencoders
 - **Code and Execution**:
-  The implementation is detailed in the Colab notebook: `image_dimensionality_reduction.ipynb`.
+  The implementation is detailed in the Colab notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Olivetti_Faces_dataset.ipynb`.
 
 ---
 
@@ -67,7 +53,7 @@ Dimensionality reduction techniques are essential in data science for visualizin
   - Factor Analysis
   - Autoencoders
 - **Code and Execution**:
-  The implementation is detailed in the Colab notebook: `tabular_dimensionality_reduction.ipynb`.
+  The implementation is detailed in the Colab notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Breast_Cancer_dataset.ipynb`.
 
 ---
 
@@ -87,7 +73,7 @@ This part showcases dimensionality reduction techniques in the Databricks enviro
    - UMAP
    - Autoencoders
 4. **Code and Execution**:
-   - Detailed steps are documented in the Databricks notebook: `dimensionality_reduction_databricks.dbc`.
+   - Detailed steps are documented in the Databricks notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/B_Dimensionality_Reduction_Workflow_Databricks.ipynb`.
 
 ---
 
