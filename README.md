@@ -15,6 +15,7 @@ Dimensionality reduction techniques are essential in data science for visualizin
 
 ---
 Youtube : https://www.youtube.com/watch?v=-Kw4UaQJphE 
+YouTube for Alternative Databricks : https://www.youtube.com/watch?v=eXPPW3-3Jwg 
 ---
 
 ## Part 1: Dimensionality Reduction in Colab
@@ -34,7 +35,7 @@ Youtube : https://www.youtube.com/watch?v=-Kw4UaQJphE
   - Factor Analysis
   - Autoencoders
 - **Code and Execution**:
-  The implementation is detailed in the Colab notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Olivetti_Faces_dataset.ipynb`.
+  The implementation is detailed in the Colab notebook: https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Olivetti_Faces_dataset.ipynb.
 
 ---
 
@@ -53,7 +54,7 @@ Youtube : https://www.youtube.com/watch?v=-Kw4UaQJphE
   - Factor Analysis
   - Autoencoders
 - **Code and Execution**:
-  The implementation is detailed in the Colab notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Breast_Cancer_dataset.ipynb`.
+  The implementation is detailed in the Colab notebook: https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Breast_Cancer_dataset.ipynb.
 
 ---
 
@@ -73,7 +74,8 @@ This part showcases dimensionality reduction techniques in the Databricks enviro
    - UMAP
    - Autoencoders
 4. **Code and Execution**:
-   - Detailed steps are documented in the Databricks notebook: `https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/B_Dimensionality_Reduction_Workflow_Databricks.ipynb`.
+   - Detailed steps are documented in the Databricks notebook: https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/B_Dimensionality_Reduction_Workflow_Databricks.ipynb.
+   - Alternative code for DAtabricks notebook : https://github.com/intimanjunath/Dimensionality_Reduction/blob/main/data_bricks_Demonstrate_dimensionality.ipynb
 
 ---
 
